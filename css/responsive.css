@@ -101,6 +101,9 @@
   .controls .btn {
     padding: 10px 24px;
   }
+  h1, h2, h3, h4, h5{
+    font-size: 20px;
+  }
   .bg-white .collapse.show {
     background: #fff;
   }
@@ -298,7 +301,7 @@
     line-height: 22px;
   }
   .text-right {
-    text-align: left !important;
+    text-align: right !important;
   }
   #features .box-item {
     text-align: center;

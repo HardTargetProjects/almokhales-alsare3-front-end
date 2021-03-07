@@ -1674,3 +1674,6 @@ footer .menu li a:hover {
 #carousel-area .carousel-item .carousel-caption img{
   width: 100%;
 }
+.nav-link img{
+  width: 30px !important;
+}
